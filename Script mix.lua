@@ -153,3 +153,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Zis/refs/hea
 loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua"))() 
   	end    
 })											
+	Name = "rubu",
+	Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bubu2k/Rubutv/refs/heads/main/RubuHubV3.txt"))()
+  	end    
+})											
