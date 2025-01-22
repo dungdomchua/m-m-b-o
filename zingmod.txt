@@ -1,4 +1,4 @@
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/vinh12eqweaws/zingmods/refs/heads/main/zingpro')))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/dungdomchua/m-m-b-o/refs/heads/main/zingmod.txt'))()
 
 local Window = OrionLib:MakeWindow({Name = "dungx skidder bad", HidePremium = false, SaveConfig = true, ConfigFolder = "dxl_bf"})
 
