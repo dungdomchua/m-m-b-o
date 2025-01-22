@@ -28,13 +28,6 @@ local Tab5 = Window:MakeTab({
 	Icon = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
-Tab4:AddButton({
-	Name = "RTX",
-	Callback = function()
-        repeat wait(5) until game:IsLoaded()
-        loadstring(game:HttpGet("https://pastebin.com/raw/vmjZ4UY8"))()
-end
-})
 
 Tab4:AddButton({
 	Name = "Fix Lag",
@@ -54,13 +47,7 @@ Tab4:AddButton({
      loadstring(game:HttpGet("https://pastebin.com/raw/FPfaukXN"))()
 end
 })
-Tab4:AddButton({
-	Name = "Farm Nhanh",
-	Callback = function()
-        repeat wait(5) until game:IsLoaded()
-        loadstring(game:HttpGet("https://api.realaya.xyz/v1/files/l/73mkp0aqyfo4ypy8hvl0nz10lq49fey5.lua"))()
-end
-})
+
 
 
 Tab4:AddButton({
