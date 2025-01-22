@@ -1,6 +1,6 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/vinh12eqweaws/zingmods/refs/heads/main/zingpro')))()
 
-local Window = OrionLib:MakeWindow({Name = "dungx best skid", HidePremium = false, SaveConfig = true, ConfigFolder = "dxl_bf"})
+local Window = use if you gay:MakeWindow({Name = "dungx best skid", HidePremium = false, SaveConfig = true, ConfigFolder = "dxl_bf"})
 
 local Tab = Window:MakeTab({
 	Name = "Scripts mới",
