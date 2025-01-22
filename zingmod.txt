@@ -165,4 +165,6 @@ Tab5:AddButton({
 	Name = "zen",
 	Callback = function()						repeat wait(5) until game:IsLoaded()			    loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenhubtop/zen_hub_pr/main/zennewwwwui.lua", true))()				Tab5:AddButton({
 	Name = "ronix",
-	Callback = function()						repeat wait(5) until game:IsLoaded()			    loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/513ccdb3ae8a61d4d7698fc337e5256d.lua"))()
+	Callback = function()						repeat wait(5) until game:IsLoaded()			    loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/513ccdb3ae8a61d4d7698fc337e5256d.lua"))()					Tab5:AddButton({
+	Name = "kncrypt đc skid key",
+	Callback = function()						repeat wait(5) until game:IsLoaded()		loadstring(game:HttpGet("https://raw.githubusercontent.com/dungdomchua/Script-skid/refs/heads/main/BloxFruit.lua.txt"))()
